@@ -2,9 +2,7 @@
 
 Camavi é um restaurante especializado em Delivery.
 Nosso cardápio contempla de deliciosos hamburgueres artesanais que você pode ter no conforto da sua casa.
-Nossa equipe é treinada para produzir
-
-# Markdown
+Nossa equipe é treinada para produzir:
 - [X] o melhor, 
 - [X] no melhor tempo 
 - [X] e com o melhor preço. 
