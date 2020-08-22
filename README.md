@@ -2,8 +2,8 @@
 
 
 <h3>Carolina Ortega</h3>
-<a href="https://github.com/cahhortega">@cahhortega</a>
-TIA 31935214
+<h4><a href="https://github.com/cahhortega">@cahhortega</a>
+TIA 31935214</h4>
 
 Tenho 20 anos, estudo Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre. <br>
 Desde pequena gosto de aprender como a tecnologia funciona, por isso escolhi seguir com a carreira que estou atualmente. <br>
