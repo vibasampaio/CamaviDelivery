@@ -11,7 +11,11 @@ Atualmente trabalho como Full Stack - Angular e .Net Core na empresa BRQ, minhas
 
 
 
-Vinicius Viba Sampaio - Tia 31933130
+Vinicius @vibsampaio - Tia 31933130
+
+Tenho 27 anos, estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre.
+Amante de tecnologia e seus derivativos, futebol, video-games e principalmente um incentivador da humanidade dentro da tecnologia.
+Trabalho altuamente com Python, Angular, Node.js e outras tecnologias, na empresa Docs IA.
 
 
 
