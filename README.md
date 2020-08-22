@@ -3,6 +3,11 @@
 
 Carolina Garcia Ortega - 31935214
 
+Tenho 20 anos, estudo Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre.
+Desde pequena gosto de aprender como a tecnologia funciona, por isso escolhi seguir com a carreira que estou atualmente.
+Trabalho como Analista de Dados e Sistemas na Empresa Argotechno Engenharia. 
+Faço trabalhos voluntários desde meus 14 anos, por isso tenho facilidade em comunicação, prestatividade e empatia com todos os meus companheiros.
+
 Matheus Mendes Giorgini - Tia 31944507 @mamendees
 
 Tenho 22 anos, sou estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre.
@@ -15,7 +20,7 @@ Vinicius @vibsampaio - Tia 31933130
 
 Tenho 27 anos, estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre.
 Amante de tecnologia e seus derivativos, futebol, video-games e principalmente um incentivador da humanidade dentro da tecnologia.
-Trabalho altuamente com Python, Angular, Node.js e outras tecnologias, na empresa Docs IA.
+Trabalho atualmente com Python, Angular, Node.js e outras tecnologias, na empresa Docs IA.
 
 
 
