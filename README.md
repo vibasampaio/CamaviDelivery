@@ -8,7 +8,7 @@ Nossa equipe é treinada para produzir:<br>
 - [X] no melhor tempo, 
 - [X] e com o melhor preço!
 ***
-<h3>Carolina Ortega :camera: </h3>
+<h3>Carolina Ortega 📸 </h3>
 <h4>TIA 31935214 <a href="https://github.com/cahhortega">@cahhortega</a>
 </h4>
 
