@@ -10,7 +10,7 @@ Desde pequena gosto de aprender como a tecnologia funciona, por isso escolhi seg
 Trabalho como Analista de Dados e Sistemas na Empresa Argotechno Engenharia. <br>
 Faço trabalhos voluntários desde meus 14 anos, por isso tenho facilidade em comunicação, prestatividade e empatia com todos os meus companheiros.<br>
 
-<h3>Matheus Mendes :trollface: </h3>
+<h3>Matheus Mendes  :trollface: </h3>
 <h4>TIA 31944507 <a href="https://github.com/mamendees">@mamendees</a>
 </h4>
 
