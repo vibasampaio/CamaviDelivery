@@ -1,5 +1,4 @@
 <h1>Camavi Delivery</h1>
-:hamburger: :fries: :beers: <br>
 Camavi é um restaurante que tem o próprio aplicativo especializado em Delivery. <br>
 Um dos nossos diferenciais é não ter um estabelecimento físico, então, a produção é focada em apenas garantir que você vai receber o que há de melhor no conforto da sua casa. <br>
 Nosso cardápio contempla deliciosos hamburgueres artesanais, acompanhamentos e bebidas exclusivas. <br>
