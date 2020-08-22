@@ -18,7 +18,7 @@ Tenho 22 anos, sou estudante de Ciência da Computação na Universidade Presbit
 Apaixonado por tecnologia, por aprender coisas novas e com o objetivo de melhorar/transformar o mundo em que nós vivemos através da tecnologia. <br>
 Atualmente trabalho como Full Stack - Angular e .Net Core na empresa BRQ, minhas principais habilidades são: ter foco, disciplina e atitude de dono. <br>
 
-<h3>Vinicius Sampaio</h3>
+<h3>Vinicius Sampaio :soccer: </h3>
 <h4>TIA 31933130 <a href="https://github.com/vibasampaio/">@vibasampaio</a>
 </h4>
 
