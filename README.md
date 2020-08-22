@@ -1,4 +1,4 @@
-<h1>CamaviDelivery</h1>
+<h1>Camavi Delivery</h1>
 
 Camavi é um restaurante que tem o próprio aplicativo especializado em Delivery. <br>
 Um dos nossos diferenciais é não ter um estabelecimento físico, então, a produção é focada em apenas garantir que você pode receber o que há de melhor no conforto da sua casa. <br>
@@ -7,7 +7,7 @@ Nossa equipe é treinada para produzir:<br>
 - [X] o melhor, 
 - [X] no melhor tempo, 
 - [X] e com o melhor preço. 
-
+***
 <h3>Carolina Ortega :camera: </h3>
 <h4>TIA 31935214 <a href="https://github.com/cahhortega">@cahhortega</a>
 </h4>
