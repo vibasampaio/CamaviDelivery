@@ -1,7 +1,7 @@
 <h1>CamaviDelivery</h1>
 
 
-<h3>Carolina Ortega @cahhortega</h3>
+<h3>Carolina Ortega</h3>
 <a>https://github.com/cahhortega</a>
 <h4>TIA 31935214</h4>
 
@@ -10,7 +10,7 @@ Desde pequena gosto de aprender como a tecnologia funciona, por isso escolhi seg
 Trabalho como Analista de Dados e Sistemas na Empresa Argotechno Engenharia. <br>
 Faço trabalhos voluntários desde meus 14 anos, por isso tenho facilidade em comunicação, prestatividade e empatia com todos os meus companheiros.<br>
 
-<h3>Matheus Mendes @mamendees</h3>
+<h3>Matheus Mendes</h3>
 <a>https://github.com/mamendees</a>
 <h4>TIA 31944507</h4>
 
@@ -18,7 +18,7 @@ Tenho 22 anos, sou estudante de Ciência da Computação na Universidade Presbit
 Apaixonado por tecnologia, por aprender coisas novas e com o objetivo de melhorar/transformar o mundo em que nós vivemos através da tecnologia. <br>
 Atualmente trabalho como Full Stack - Angular e .Net Core na empresa BRQ, minhas principais habilidades são: ter foco, disciplina e atitude de dono. <br>
 
-<h3>Vinicius Sampaio @vibsampaio</h3>
+<h3>Vinicius Sampaio</h3>
 <a>https://github.com/vibasampaio/</a>
 <h4>TIA 31933130</h4>
 
