@@ -1,9 +1,9 @@
-# CamaviDelivery
+<h1>CamaviDelivery</h1>
 
 
-Carolina Garcia Ortega - 31935214
+<h3>Carolina Garcia Ortega - 31935214</h3>
 
-Tenho 20 anos, estudo Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre.
+Tenho 20 anos, estudo Ciência da Computação na Universidade Presbiteriana Mackenzie. Cursando o 4º semestre. <br>
 Desde pequena gosto de aprender como a tecnologia funciona, por isso escolhi seguir com a carreira que estou atualmente.
 Trabalho como Analista de Dados e Sistemas na Empresa Argotechno Engenharia. 
 Faço trabalhos voluntários desde meus 14 anos, por isso tenho facilidade em comunicação, prestatividade e empatia com todos os meus companheiros.
