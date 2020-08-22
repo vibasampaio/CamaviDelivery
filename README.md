@@ -1,7 +1,7 @@
 <h1>CamaviDelivery</h1>
 
 
-<h3>Carolina Ortega :camera_with_flash: </h3>
+<h3>Carolina Ortega :camerawithflash: </h3>
 <h4>TIA 31935214 <a href="https://github.com/cahhortega">@cahhortega</a>
 </h4>
 
