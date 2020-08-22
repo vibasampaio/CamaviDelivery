@@ -1,7 +1,13 @@
 <h1>CamaviDelivery</h1>
 
-Camavi é um restaurante especializado em Delivery, nossa equipe é treinada para produzir o melhor, no melhor tempo e com o melhor preço. 
+Camavi é um restaurante especializado em Delivery.
 Nosso cardápio contempla de deliciosos hamburgueres artesanais que você pode ter no conforto da sua casa.
+Nossa equipe é treinada para produzir
+
+# Markdown
+- [X] o melhor, 
+- [X] no melhor tempo 
+- [X] e com o melhor preço. 
 
 <h3>Carolina Ortega :camera: </h3>
 <h4>TIA 31935214 <a href="https://github.com/cahhortega">@cahhortega</a>
